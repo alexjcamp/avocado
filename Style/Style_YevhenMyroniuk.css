@@ -1,11 +1,14 @@
 body 
 {
-	width: 500px;
+	width: 900px;
 	text-align: center;
 	margin: auto;
 	background-image: url("http://more-sky.com/data/out/9/IMG_321048.png");
 }
-
+div#bio {
+    width:  80%;
+    padding-left:  30px;
+}
 img.person
 {
 	border-radius: 50%;
